@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e132a9dad797641f184cb82a79d575ad, type: 3}
+  m_Name: Iron Shoes
+  m_EditorClassIdentifier: 
+  icon: {fileID: 3195512542559613542, guid: 3794d458ed327479091b6a9c74db8856, type: 3}
+  stackable: 0
+  price: 70
+  category: 1
+  equipLocation: 4
